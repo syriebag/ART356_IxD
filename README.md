@@ -11,7 +11,7 @@ This is a link-> [The Word](https://www.merriam-webster.com/word-of-the-day).
 
 Hey, check out this **cool** image 
 
-![image of a bunny working]([https://media.tenor.com/VfuNOwzMBKoAAAAe/computer-bunny.png](https://tenor.com/hxQxuEDwHrO.gif))
+![image of a bunny working][([https://media.tenor.com/VfuNOwzMBKoAAAAe/computer-bunny.png](https://tenor.com/hxQxuEDwHrO.gif))](https://tenor.com/hxQxuEDwHrO.gif)
 
 ### Journal Example
 
