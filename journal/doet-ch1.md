@@ -7,6 +7,7 @@ but it should be unnecessary for simple things. Many products defy
 understanding simply because they have too many functions and controls. I don’t
 think that simple home appliances—stoves, washing machines, audio and
 television sets—should look like Hollywood’s idea of a spaceship control room." p. 3
+
 <img width="5712" height="4284" alt="IMG_8054" src="https://github.com/user-attachments/assets/c07e2b1d-c335-4867-9a00-708a284a7b73" />
 
 
@@ -17,3 +18,13 @@ The following excerpt reminded me of my first reaction seeing this washing machi
 ### 2. Using signifiers
 <img width="416" height="742" alt="Screenshot 2026-09-03 at 12 54 59 PM" src="https://github.com/user-attachments/assets/2ccdac62-f04c-4870-bb1b-fc5bcafa2b8b" />
 <img width="417" height="742" alt="Screenshot 2026-09-03 at 12 55 16 PM" src="https://github.com/user-attachments/assets/a87316e9-7fa5-45ed-b381-7e71cb8cdd34" />
+
+
+### 3. Affordances vs Signifiers (?)
+> "Consider a bookmark, a deliberately placed signifier of one’s place in
+reading a book. But the physical nature of books also makes a bookmark an
+accidental signifier, for its placement also indicates how much of the book
+remains. Most readers have learned to use this accidental signifier to aid in their
+enjoyment of the reading. With few pages left, we know the end is near." p. 16
+
+<img width="4032" height="3024" alt="IMG_8055" src="https://github.com/user-attachments/assets/fa48ed07-d8db-4d2d-b958-3e30c123bff4" />
