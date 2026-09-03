@@ -21,7 +21,7 @@ I have made my sister her digital birthday invitation through Figma and I rememb
 <img width="417" height="742" alt="Screenshot 2026-09-03 at 12 55 16 PM" src="https://github.com/user-attachments/assets/a87316e9-7fa5-45ed-b381-7e71cb8cdd34" />
 
 
-### 3. Affordances vs Signifiers(?)
+### 3. Signifiers in daily life
 > "Consider a bookmark, a deliberately placed signifier of one’s place in
 reading a book. But the physical nature of books also makes a bookmark an
 accidental signifier, for its placement also indicates how much of the book
@@ -31,4 +31,4 @@ enjoyment of the reading. With few pages left, we know the end is near." p. 16
 <img width="4032" height="3024" alt="IMG_8056" src="https://github.com/user-attachments/assets/474c8522-356c-4602-a38b-33c2c0146b79" />
 
 
-As a reader, this excerpt was so relatable to me! 📚 It was interesting to know that bookmarks acts as a signifier, and these small everyday things in life shapes our intuition and and experiences. Additionally, I wanted to make s
+As a reader, this excerpt was so relatable to me! 📚 It was interesting to know that bookmarks acts as a signifier, and these small everyday things in life shapes our intuition and experiences. Additionally, as I read through my books, I add tabs to pages I want to remember or liked the contents. This made me realize how even I become part of how I add signifiers to objects around me, even to adding them to my whole space. 
