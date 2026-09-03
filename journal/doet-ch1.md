@@ -20,7 +20,7 @@ The following excerpt reminded me of my first reaction seeing this washing machi
 <img width="417" height="742" alt="Screenshot 2026-09-03 at 12 55 16 PM" src="https://github.com/user-attachments/assets/a87316e9-7fa5-45ed-b381-7e71cb8cdd34" />
 
 
-### 3. Affordances vs Signifiers (?)
+### 3. Affordances vs Signifiers
 > "Consider a bookmark, a deliberately placed signifier of one’s place in
 reading a book. But the physical nature of books also makes a bookmark an
 accidental signifier, for its placement also indicates how much of the book
