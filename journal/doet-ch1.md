@@ -8,8 +8,7 @@ understanding simply because they have too many functions and controls. I don’
 think that simple home appliances—stoves, washing machines, audio and
 television sets—should look like Hollywood’s idea of a spaceship control room." p. 3
 <img width="5712" height="4284" alt="IMG_8054" src="https://github.com/user-attachments/assets/c07e2b1d-c335-4867-9a00-708a284a7b73" />
-
-
+The following excerpt reminded me of my first reaction seeing this washing machine. We just recently moved to a new place and appliances were part of the house, meaning, we have to get accustomed and learn new appliances again! Looking at this washing machine for the first time, my jaw literally dropped and thoughts already filled my head with anxiety and complexity. 
 ### 2. Using signifiers
 
 <img width="416" height="742" alt="Screenshot 2026-09-03 at 12 54 59 PM" src="https://github.com/user-attachments/assets/2ccdac62-f04c-4870-bb1b-fc5bcafa2b8b" />
