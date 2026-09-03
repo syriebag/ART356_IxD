@@ -17,8 +17,8 @@ The following excerpt reminded me of my first reaction seeing this washing machi
 ### 2. Using signifiers
 I have made my sister her digital birthday invitation through Figma and I remembered how I utilized signifiers (through text) to navigate the site. The left side was the first version of the design, and looking at it, it seems like a static wallpaper. It doesn't have any sign that the invitation they're looking at can go to the next page. So then I revisioned the design and add "instructions" on how to navigate the page by either swiping or tapping the screen. 
 
-<img width="416" height="742" alt="Screenshot 2026-09-03 at 12 54 59 PM" src="https://github.com/user-attachments/assets/2ccdac62-f04c-4870-bb1b-fc5bcafa2b8b" />
-<img width="417" height="742" alt="Screenshot 2026-09-03 at 12 55 16 PM" src="https://github.com/user-attachments/assets/a87316e9-7fa5-45ed-b381-7e71cb8cdd34" />
+<img width="400" height="726" alt="Screenshot 2026-09-03 at 12 54 59 PM" src="https://github.com/user-attachments/assets/2ccdac62-f04c-4870-bb1b-fc5bcafa2b8b" />
+<img width="400" height="726" alt="Screenshot 2026-09-03 at 12 55 16 PM" src="https://github.com/user-attachments/assets/a87316e9-7fa5-45ed-b381-7e71cb8cdd34" />
 
 
 ### 3. Signifiers in daily life
