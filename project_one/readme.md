@@ -1,5 +1,9 @@
-Hello World
+#Welcome to Project One: title
 
-(wireframe and moodboard here)
+##Wireframe
+(wireframe)
 
-link -> https://syriebag.github.io/ART356_IxD/project_one/index.html
+##Moodboard
+(moodboard)
+
+[Project 1](https://syriebag.github.io/ART356_IxD/project_one/index.html)
