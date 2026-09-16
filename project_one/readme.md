@@ -1,9 +1,9 @@
-#Welcome to Project One: title
+# Welcome to Project One: title
 
-##Wireframe
-wireframe
+## Wireframe
+(wireframe image)
 
-##Moodboard
-moodboard
+## Moodboard
+(moodboard image)
 
 [Project 1](https://syriebag.github.io/ART356_IxD/project_one/index.html)
