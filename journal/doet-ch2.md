@@ -21,3 +21,7 @@ Why not working?
 
   
 
+|**Information A**|**Information B**|
+|:---:|:---:|
+| Text1 <br/> Text2 | ![stats-one](https://github-readme-stats.vercel.app/api?... |
+| Text3 <br/> Text4 | ![stats-two](https://github-readme-stats.vercel.app/api?... |
