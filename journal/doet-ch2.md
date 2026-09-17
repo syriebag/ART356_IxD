@@ -13,6 +13,7 @@ Relating it to me as a designer, this made me reflect on how I can make designs 
 
 ### 2. Blaming the Wrong things
 > "When we do this, we tend to attribute our behavior to the environment. When we see others do it, we tend to attribute it to their personalities." p61
+> 
 > "Just the opposite attribution, by the way, is made when things go well. When things go right, people credit their own abilities and intelligence. The onlookers do the reverse. When they see things go well for someone else, they sometimes credit the environment, or luck."p62
 
 ## Question
