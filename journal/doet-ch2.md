@@ -21,8 +21,5 @@ Why not working?
 
   
 
-|**Information A**|**Information B**|
 |:---:|:---:|
-| Text1 <br/> Text2 | ![stats-one](https://github-readme-stats.vercel.app/api?... |
-| Text3 <br/> Text4 | ![stats-two](https://github-readme-stats.vercel.app/api?... |
 | As I was grabbing myself tea, I was walking and holding the cup with conscious mind as to wonder how I am doing the action subconsciously 😆 | <img width="732" height="524" alt="IMG_8140" src="https://github.com/user-attachments/assets/eeca540a-0df0-4738-9af6-ab97a50205fe" /> |
