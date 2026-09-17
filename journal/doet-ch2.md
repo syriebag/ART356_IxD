@@ -20,6 +20,6 @@ Why not working?
   This also made me wonder how people with more logical processes differ compared to people with emotion-based processes. 
 
   
-
+|** **|** **|
 |:---:|:---:|
 | As I was grabbing myself tea, I was walking and holding the cup with conscious mind as to wonder how I am doing the action subconsciously 😆 | <img width="732" height="524" alt="IMG_8140" src="https://github.com/user-attachments/assets/eeca540a-0df0-4738-9af6-ab97a50205fe" /> |
