@@ -1,4 +1,5 @@
-# Design of Everyday Things - Chapter 1
+# Design of Everyday Things
+## Chapter 1: The Psychopathology of Everyday Things
 
 ### 1. Complexity of buttons
 > "With complex devices, discoverability and understanding require the aid of 
