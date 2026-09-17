@@ -16,12 +16,14 @@ Relating it to me as a designer, this made me reflect on how I can make designs 
 > 
 > "Just the opposite attribution, by the way, is made when things go well. When things go right, people credit their own abilities and intelligence. The onlookers do the reverse. When they see things go well for someone else, they sometimes credit the environment, or luck." p62
 
-## Question
+This concept of blame in different circumstances was really intriguing. Depending on the environment, our brain reacts opposite to negative and positive situations. Interestingly, we react like this collectively. I thought that this relative attribution was very cultural, but it is prevalent to the functions of our brain. Additionally, from the examples given about Tom, this emphasized the importance of communication to eliminate misunderstandings. How can I prevent this in design? Through the use of feedback, I believe.
+
+### Question
 If Norman defines discoverability as "what actions are possible and the current state of the device." in p72, then how does this differ to affordances ("...how the object could possibly be used" p11)?
 
 The concept seems to be too close to differentiate for me. 
 
-## Other topic
+### Other topic
 > "Cognition and emotion cannot be separated. Cognitive thoughts lead to emotions: emotions drive cognitive thoughts." p47
   
   I was intrigued by this statement as I have read about Alexithymia and have known psychopathy from media. But after a little bit of research, Norman was right about emotion as inseparable to cognition as some emotions are basic and are naturally wired to everyone at birth.
