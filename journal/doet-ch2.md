@@ -11,9 +11,13 @@ Relating it to me as a designer, this made me reflect on how I can make designs 
 | As I was grabbing myself tea, I was walking and holding the cup with conscious mind as to wonder how I am doing the action subconsciously 😆 | <img width="732" height="524" alt="IMG_8140" src="https://github.com/user-attachments/assets/eeca540a-0df0-4738-9af6-ab97a50205fe" /> |
 
 
-### 2. Topic
-Why not working?
+### 2. Blaming the Wrong things
+> "When we do this, we tend to attribute our behavior to the environment. When we see others do it, we tend to attribute it to their personalities." p61
+  "Just the opposite attribution, by the way, is made when things go well. When things go right, people credit their own abilities and intelligence. The onlookers do the reverse. When they see things go well for someone else, they sometimes credit the environment, or luck."p62
 
+## Question
+If Norman defines discoverability as "what actions are possible and the current state of the device." in p72, then how does this differ to affordances ("...how the object could possibly be used" p11)? 
+The concept seems to be too close to differentiate for me. 
 
 ## Other topic
 > "Cognition and emotion cannot be separated. Cognitive thoughts lead to emotions: emotions drive cognitive thoughts." p47
