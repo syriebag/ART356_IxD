@@ -1,5 +1,5 @@
-# Design of Everyday Things - Chapter 2
-## The Psychology of Everyday Actions
+# Design of Everyday Things
+## Chapter 2: The Psychology of Everyday Actions
 
 
 ### 1. Topic
