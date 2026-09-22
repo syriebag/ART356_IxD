@@ -4,7 +4,7 @@
 ## Wireframe
 |**version 1**|**version 2**|
 |:---:|:---:|
-| <img width="500" height="400" alt="Screenshot 2026-09-21 at 9 21 21 PM" src="https://github.com/user-attachments/assets/dec89fd8-08fa-4c8e-b082-698ffe525b67" /> | <img width="500" height="400" alt="Screenshot 2026-09-21 at 9 22 12 PM" src="https://github.com/user-attachments/assets/669d5649-29fc-4f86-8371-aa47aa92a568" /> |
+| <img width="500" height="350" alt="Screenshot 2026-09-21 at 9 21 21 PM" src="https://github.com/user-attachments/assets/dec89fd8-08fa-4c8e-b082-698ffe525b67" /> | <img width="500" height="350" alt="Screenshot 2026-09-21 at 9 22 12 PM" src="https://github.com/user-attachments/assets/669d5649-29fc-4f86-8371-aa47aa92a568" /> |
 
 
 ## Moodboard
