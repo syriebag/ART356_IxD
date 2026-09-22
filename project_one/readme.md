@@ -8,7 +8,7 @@ With this, I thought, what if there's an avatar random generator that people can
 |**version 1**|**version 2**|
 |:---:|:---:|
 | <img width="500" height="350" alt="Screenshot 2026-09-21 at 9 21 21 PM" src="https://github.com/user-attachments/assets/dec89fd8-08fa-4c8e-b082-698ffe525b67" /> | <img width="500" height="350" alt="Screenshot 2026-09-21 at 9 22 12 PM" src="https://github.com/user-attachments/assets/669d5649-29fc-4f86-8371-aa47aa92a568" /> |
-| The original idea was to take user input of their name and generate a random face. | |
+| The original idea was to take user input of their name and randomly generate a face. I thought this idea was funny and engaging since the output is based on their name, their identity, and will produce either a positive or negative response. | |
 
 
 ## Moodboard
