@@ -2,7 +2,7 @@
 🪞 [Link to FUNity](https://syriebag.github.io/ART356_IxD/project_one/index.html)
 
 This project was inspired by Professor Tyler's comment about his appreciation of students having profile pictures in Canvas. 
-With this, I thought, what if there's an avatar random generator that people can screenshot and use as a profile picture?
+With this, I thought, what if there's an avatar random generator that people can screenshot and use as their profile picture?
 
 ## Wireframe
 |**version 1**|**version 2**|
@@ -12,4 +12,6 @@ With this, I thought, what if there's an avatar random generator that people can
 
 
 ## Moodboard
-<img width="996" height="708" alt="Screenshot 2026-09-21 at 9 21 54 PM" src="https://github.com/user-attachments/assets/84bfe1e8-15ca-4d9d-880d-b60d06f8eb66" />
+|**board**|**comment**|
+|:---:|:---:|
+| <img width="996" height="708" alt="Screenshot 2026-09-21 at 9 21 54 PM" src="https://github.com/user-attachments/assets/84bfe1e8-15ca-4d9d-880d-b60d06f8eb66" /> | Creating a moodboard for this project was quite difficult, as I am not well-versed in game design. It was also challenging to pick an aesthetic that would best engage diverse demographics of users.   |
