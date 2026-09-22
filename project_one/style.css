@@ -1,11 +1,27 @@
+@font-face {
+  font-family: "Just Breathe";
+  src: url("assets/font/JustBreatheBd.otf") format("opentype");
+}
+
 html, body {
   margin: 0;
   padding: 0;
-  background-color: black;
-  color: white;
+  background-color: #fff4dc;
+  color: #074358;
   text-align: center;
+  font-family: "Just Breathe", sans-serif;
 }
 canvas {
   display: block;
   margin: auto;
+}
+
+h1{
+  font-size: 100px;
+  margin-top: 0px;
+}
+
+p{
+  font-size: 30px;
+  margin-bottom: 0px;
 }
