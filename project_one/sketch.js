@@ -122,41 +122,43 @@ function draw() {
 
 // Program to stop the random() arrays with clickCount
 function mouseClicked() {
-  clickCount = clickCount + 1;
+  // Mouse clicks only count when clicked inside the button
+  if (mouseX > 340 && mouseX < 460 && mouseY > 425 && mouseY < 475){
+    clickCount = clickCount + 1;
 
-  // First click turns "start" text to "stop" and the background music plays
-  if (clickCount === 1) {
-    start = "stop";
-    music.play();
-  }
+    // First click turns "start" text to "stop" and the background music plays
+    if (clickCount === 1) {
+      start = "stop";
+      music.play();
+    }
   
-  // Second click stops the eyes
-  if (clickCount === 2) {
-    eyesBoolean = false;
+    // Second click stops the eyes
+    if (clickCount === 2) {
+      eyesBoolean = false;
+    }
+
+    // Third click stops the nose
+    if (clickCount === 3) {
+      noseBoolean = false;
+    }
+
+    // Fourth click stops the mouth
+    if (clickCount === 4) {
+      mouthBoolean = false;
+      start = "start";
+    }
+
+    // Fifth click turns "stop" text to "start" and restarts the game
+    // setting all booleans to true will randomize the facial again
+    // and setting clickCount = 0; will restart the program
+    if (clickCount === 5) {
+      clickCount = 0;
+
+      eyesBoolean = true;
+      noseBoolean = true;
+      mouthBoolean = true;
+
+      start = "start";
+    }  
   }
-
-  // Third click stops the nose
-  if (clickCount === 3) {
-    noseBoolean = false;
-  }
-
-  // Fourth click stops the mouth
-  if (clickCount === 4) {
-    mouthBoolean = false;
-    start = "start";
-  }
-
-  // Fifth click turns "stop" text to "start" and restarts the game
-  // setting all booleans to true will randomize the facial again
-  // and setting clickCount = 0; will restart the program
-  if (clickCount === 5) {
-    clickCount = 0;
-
-    eyesBoolean = true;
-    noseBoolean = true;
-    mouthBoolean = true;
-
-    start = "start";
-  }
-
 }
