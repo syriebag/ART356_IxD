@@ -1,6 +1,9 @@
 # Project One: FUNity
 [Link to FUNity](https://syriebag.github.io/ART356_IxD/project_one/index.html)
 
+This project was inspired by Professor Tyler's comment about his appreciation of students having profile pictures in Canvas. 
+With this, I thought, what if there's an avatar random generator that people can screenshot and use as a profile picture?
+
 ## Wireframe
 |**version 1**|**version 2**|
 |:---:|:---:|
