@@ -4,6 +4,7 @@
 
 ### 1. Light Switches
 > "If the orientation of the lights and the switches differ, the natural mapping is destroyed." p. 130
+
 |**Thoughts**|**Image**|
 |:---:|:---:|
 | text | <img width="300" height="400" alt="IMG_8268" src="https://github.com/user-attachments/assets/52fb6908-a30b-4e53-8b0c-8828e9ab58b1" /> |
