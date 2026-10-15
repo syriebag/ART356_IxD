@@ -8,7 +8,7 @@
 here
 
 
-### 2. Automobile
+### 2. Tesla
 > "When cars become fully automated...what will be the meaning of the red lights on the rear of the auto?" p.130
 >
 > "...door handles of cars...inside ones are often difficult to find, hard to figure out how to operate, and awkward to use." p.134
