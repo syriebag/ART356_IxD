@@ -9,7 +9,7 @@
 |:---:|:---:|:---:|:---:|
 | Upstairs bathroom: Top switch is for the light | <img width="300" height="400" alt="IMG_8268" src="https://github.com/user-attachments/assets/52fb6908-a30b-4e53-8b0c-8828e9ab58b1" /> | Downstairs bathroom: Bottom switch is for the light |<img width="300" height="400" alt="IMG_8269" src="https://github.com/user-attachments/assets/a3af6ecb-f323-4bdc-a721-0e81bc00f08f" />|
 
-These are our light and exhaust switches from our two bathrooms. 
+These are our light and exhaust switches from our two bathrooms. We've been in the new house for 2 months, but I am still confused whenever I turn the light on and off, because these restrooms have different mechanisms. 
 
 
 
