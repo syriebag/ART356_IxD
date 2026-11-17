@@ -8,7 +8,7 @@ Additionally, function played a huge role in identifying how critical design is 
 Pages 78-83 explained clearly the complexity of the nature of function, not solely as an evident attribute, but as something flexible and dynamic. 
 
 Functions can be defined as follows:
-
+|**Ligo's categorization**|**Schiffer's categorization**|
 |:---:|:---:|
 | here | here |
 | 1. Structural articulation 2. Physical function 3. Psychological function 4. Social function 5. Cultural-existential function | here |
