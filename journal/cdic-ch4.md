@@ -15,3 +15,5 @@ Functions can be defined as follows:
 | 3. Psychological function | 2. Ideo-functions |
 | 4. Social function | 2. Ideo-functions |
 | 5. Cultural-existential function | 3. Socio-function |
+
+- add exmaple -
