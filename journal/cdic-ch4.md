@@ -11,4 +11,8 @@ Functions can be defined as follows:
 |**Ligo's categorization**|**Schiffer's categorization**|
 |:---:|:---:|
 | here | here |
-| 1. Structural articulation 2. Physical function 3. Psychological function 4. Social function 5. Cultural-existential function | here |
+| 1. Structural articulation 
+2. Physical function 
+3. Psychological function 
+4. Social function 
+5. Cultural-existential function | here |
