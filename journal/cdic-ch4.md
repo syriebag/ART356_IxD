@@ -10,9 +10,8 @@ Pages 78-83 explained clearly the complexity of the nature of function, not sole
 Functions can be defined as follows:
 |**Ligo's categorization**|**Schiffer's categorization**|
 |:---:|:---:|
-| here | here |
-| 1. Structural articulation 
-2. Physical function 
-3. Psychological function 
-4. Social function 
-5. Cultural-existential function | here |
+| 1. Structural articulation | 1. Techno-function |
+| 2. Physical function | 1. Techno-function |
+| 3. Psychological function | 2. Ideo-functions |
+| 4. Social function | 2. Ideo-functions |
+| 5. Cultural-existential function | 3. Socio-function |
