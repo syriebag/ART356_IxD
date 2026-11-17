@@ -16,4 +16,4 @@ Functions can be defined as follows:
 | 4. Social function | 2. Ideo-functions |
 | 5. Cultural-existential function | 3. Socio-function |
 
-- add exmaple -
+-  add an example here about the different functions of an object  -
