@@ -22,6 +22,10 @@ Functions can be defined as follows:
 
 ### Example of the different functions of objects in different cultures
 1. Toilet Paper
+   In my culture, toilet paper was used more prevalently, but not for toilet, but to blow our noses. Facial tissues were much expensive, and so it is rare to find them in households. 
 2. Handkerchief
-3. Spoon
-4. Umbrellas
+   Having hyperhidrosis 
+4. Spoon
+   
+6. Umbrellas
+   
