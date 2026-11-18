@@ -4,6 +4,8 @@ In summary, what I've learned from this chapter is the discourse on how critical
 
 Additionally, function played a huge role in identifying how critical design is different from other forms of design. 
 
+
+
 ### Different Types of Function
 Pages 78-83 explained clearly the complexity of the nature of function, not solely as an evident attribute, but as something flexible and dynamic. 
 
