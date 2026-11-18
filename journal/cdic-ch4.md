@@ -18,4 +18,8 @@ Functions can be defined as follows:
 
 
 
-/  Add an example here about the different functions of an object  /
+## Example of the different functions of objects in different cultures
+1. Toilet Paper
+2. Handkerchief
+3. Spoon
+4. Umbrellas
