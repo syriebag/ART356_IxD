@@ -24,8 +24,8 @@ Functions can be defined as follows:
 1. Toilet Paper
    In my culture, toilet paper was used more prevalently, but not for toilet, but to blow our noses. Facial tissues were much expensive, and so it is rare to find them in households. 
 2. Handkerchief
-   Having hyperhidrosis 
-4. Spoon
-   
+   Having sweaty hands, I used to carry handkerchief with me wherever I go, especially living in a hot country. However, after coming to America, though I still have sweaty hands at times, I stopped carrying them around due to cooler weather, and the lack of culture around it. It seems to me that I would attract attention to me carrying a handkerchief around. 
+4. Spoon vs Fork
+   Using only spoon is more convenient and effective in my culture, but coming to America, a culture shock was seeing people eat with only fork instead.  
 6. Umbrellas
-   
+   Umbrellas are rarely carried by people in America, even when its raining. However, in my country, we use umbrella everyday to protect ourselves from the sun due to the preference of having fair skin. 
